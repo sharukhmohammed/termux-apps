@@ -1,0 +1,4 @@
+working
+venv/
+__pycache__/
+img_compress.egg-info
